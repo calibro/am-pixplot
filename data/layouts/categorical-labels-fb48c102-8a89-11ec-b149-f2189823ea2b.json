@@ -1,0 +1,131 @@
+{
+    "positions": [
+        [
+            -1.0,
+            -0.2
+        ],
+        [
+            -0.56522,
+            -0.2
+        ],
+        [
+            -0.40217,
+            -0.2
+        ],
+        [
+            -0.28261,
+            -0.2
+        ],
+        [
+            -0.17391,
+            -0.2
+        ],
+        [
+            -0.06522,
+            -0.2
+        ],
+        [
+            0.02174,
+            -0.2
+        ],
+        [
+            0.1087,
+            -0.2
+        ],
+        [
+            0.19565,
+            -0.2
+        ],
+        [
+            0.27174,
+            -0.2
+        ],
+        [
+            0.34783,
+            -0.2
+        ],
+        [
+            0.41304,
+            -0.2
+        ],
+        [
+            0.46739,
+            -0.2
+        ],
+        [
+            0.52174,
+            -0.2
+        ],
+        [
+            0.57609,
+            -0.2
+        ],
+        [
+            0.63043,
+            -0.2
+        ],
+        [
+            0.68478,
+            -0.2
+        ],
+        [
+            0.73913,
+            -0.2
+        ],
+        [
+            0.78261,
+            -0.2
+        ],
+        [
+            0.82609,
+            -0.2
+        ],
+        [
+            0.86957,
+            -0.2
+        ],
+        [
+            0.90217,
+            -0.2
+        ],
+        [
+            0.93478,
+            -0.2
+        ],
+        [
+            0.96739,
+            -0.2
+        ],
+        [
+            1.0,
+            -0.2
+        ]
+    ],
+    "labels": [
+        "reportage",
+        "reportage\nritratto",
+        "ritratto",
+        "reportage\narchitettura",
+        "reportage\nfoto di oggetti",
+        "paesaggio",
+        "foto di oggetti",
+        "foto d'arte",
+        "architettura",
+        "foto d'arte\nreportage",
+        "reportage\nriproduzione",
+        "foto d'arte\nritratto",
+        "reportage\npaesaggio",
+        "foto industriale",
+        "riproduzione",
+        "ritratto\nreportage",
+        "ritratto\nfoto d'arte",
+        "paesaggio\nreportage",
+        "architettura\npaesaggio",
+        "paesaggio\narchitettura",
+        "foto d'arte\narchitettura",
+        "reportage\nfoto d'arte",
+        "foto d'arte\npaesaggio",
+        "ritratto\npaesaggio",
+        "reportage\nritratto\npaesaggio"
+    ]
+}
